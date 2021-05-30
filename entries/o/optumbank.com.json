@@ -1,6 +1,9 @@
 {
   "Optum Bank": {
     "domain": "optumbank.com",
+       "tfa": [
+      "sms"
+    ],
     "url": "https://www.optumbank.com",
     "contact": {
       "facebook": "myOptum",
